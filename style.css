@@ -2,9 +2,26 @@ body{
     font-family:"Fira Sans Condensed", sans-serif;
     background:  palevioletred;
     color:black
-
+    margin:0px;
+    margin-bottom: 100px
 }
-
+.chamada{
+    background: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+header{
+    font-size: 40px;
+    color:blueviolet;
+    border-bottom: 3px solid cornflowerblue;
+    padding: 20px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada-texto{}
 
 
 
